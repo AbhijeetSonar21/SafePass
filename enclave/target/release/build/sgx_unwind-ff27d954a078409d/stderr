@@ -1,0 +1,334 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force 
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: configure.ac: tracing
+autoreconf: running: libtoolize --copy --force
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: running: /usr/bin/autoconf --force
+autoreconf: running: /usr/bin/autoheader --force
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+autoreconf: running: automake --add-missing --copy --force-missing
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+configure.ac:18: installing 'config/compile'
+configure.ac:11: installing 'config/missing'
+src/Makefile.am:371: warning: whitespace following trailing backslash
+src/Makefile.am:372: warning: whitespace following trailing backslash
+src/Makefile.am: installing 'config/depcomp'
+src/Makefile.am:165: warning: variable 'libunwind_dwarf_generic_la_SOURCES' is defined but no program or
+src/Makefile.am:165: library has 'libunwind_dwarf_generic_la' as canonical name (possible typo)
+src/Makefile.am:619: warning: variable 'libunwind_x86_64_la_SOURCES' is defined but no program or
+src/Makefile.am:619: library has 'libunwind_x86_64_la' as canonical name (possible typo)
+src/Makefile.am:168: warning: variable 'libunwind_dwarf_generic_la_LIBADD' is defined but no program or
+src/Makefile.am:168: library has 'libunwind_dwarf_generic_la' as canonical name (possible typo)
+src/Makefile.am:621: warning: variable 'libunwind_x86_64_la_LIBADD' is defined but no program or
+src/Makefile.am:621: library has 'libunwind_x86_64_la' as canonical name (possible typo)
+src/Makefile.am:620: warning: variable 'libunwind_x86_64_la_LDFLAGS' is defined but no program or
+src/Makefile.am:620: library has 'libunwind_x86_64_la' as canonical name (possible typo)
+autoreconf: Leaving directory `.'
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Los-linux.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Ldyn-extract.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lfind_dynamic_proc_info.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lget_accessors.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lget_proc_name.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lget_proc_info_by_ip.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Ldestroy_addr_space.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lput_dynamic_unwind_info.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lget_fpreg.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lget_reg.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lset_reg.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lset_fpreg.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lset_caching_policy.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/mi/Lset_cache_size.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/Backtrace.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetDataRelBase.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetCFA.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/DeleteException.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/FindEnclosingFunction.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetIPInfo.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetLanguageSpecificData.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetIP.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetRegionStart.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/GetTextRelBase.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/Resume.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/RaiseException.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/Resume_or_Rethrow.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/SetGR.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/SetIP.c:26:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/unwind/unwind-internal.h:29:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lapply_reg_state.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lreg_states_iterate.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lcreate_addr_space.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lget_save_loc.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Linit.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lglobal.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Linit_local.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Linit.c:4:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Ginit.c:75:12: warning: 'mem_validate_pipe' defined but not used [-Wunused-variable]
+ static int mem_validate_pipe[2] = {-1, -1};
+            ^~~~~~~~~~~~~~~~~
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Linit_remote.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lget_proc_info.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lregs.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lresume.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lstash_frame.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lexpr.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lfde.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/x86_64/Lstep.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lparser.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lpe.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lfind_proc_info-lsb.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lfind_unwind_table.c:1:0: warning: "UNW_LOCAL_ONLY" redefined
+ #define UNW_LOCAL_ONLY
+ 
+<command-line>:0:0: note: this is the location of the previous definition
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lfind_proc_info-lsb.c:4:0:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Gfind_proc_info-lsb.c: In function '_ULx86_64_dwarf_callback':
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Gfind_proc_info-lsb.c:498:29: warning: unused variable 'synth_eh_frame_hdr' [-Wunused-variable]
+   struct dwarf_eh_frame_hdr synth_eh_frame_hdr;
+                             ^~~~~~~~~~~~~~~~~~
+In file included from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/elf64.h:7:0,
+                 from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/include/tdep-x86_64/libunwind_i.h:37,
+                 from ../include/tdep/libunwind_i.h:25,
+                 from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/include/libunwind_i.h:372,
+                 from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Gfind_unwind_table.c:32,
+                 from /root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Lfind_unwind_table.c:4:
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Gfind_unwind_table.c: In function '_ULx86_64_dwarf_find_unwind_table':
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/elfxx.h:42:25: warning: implicit declaration of function '_Uelf64_valid_object'; did you mean '_Uelf64_find_section'? [-Wimplicit-function-declaration]
+ # define elf_w(x)       _Uelf64_##x
+                         ^
+/root/sgx/sgx_unwind/../sgx_unwind/libunwind/src/dwarf/Gfind_unwind_table.c:59:8: note: in expansion of macro 'elf_w'
+   if (!elf_w(valid_object) (&edi->ei))
+        ^~~~~
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
+ar: `u' modifier ignored since `D' is the default (see `U')
