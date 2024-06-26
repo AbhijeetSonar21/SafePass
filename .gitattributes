@@ -1,0 +1,5 @@
+*.js linguist-detectable=false
+*.makefile linguist-detectable=false
+*.c linguist-detectable=false
+*.shell linguist-detectable=false
+*.rust linguist-detectable=true
